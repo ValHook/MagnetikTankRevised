@@ -1,0 +1,11 @@
+LISEZ-MOI !
+Notes importantes à propos de notre projet. 
+- Pour compiler le jeu 3D, ouvrir le projet codeblocks correspondant, lier les librairies libIrrklang.a et libIrrlicht.a dans le linier et définir le dossier "include" comme dossier de search include path.
+- Pour compiler le jeu 2D, ouvrir le projet correspondant, et lier libAlleg.a dans le linker
+- Pour pouvoir lancer les exécutables, les placer à cotés de leur ressources (le projet 3D dans ./Release, le projet 2D dans ./Release/2D)
+- Les ordinateurs de l'école ne sont pas tous muni d'haut parleurs. Le jeu 3D ne se lancera pas si il n'y a pas de sortie audio. Il faut utiliser des écouteurs ou des enceintes ou trouver des ordinateurs avec des haut parleurs. Les ordis de la P406 (QG) ou de la B321 (RG) ont des haut parleurs
+- Le jeu 3D ne se lancera pas si le fichier de ressources media n'est pas présent. Étant trop volumineux nous n'avons pu l'inclure dans ce .zip mais vous pourrez le trouver sur notre serveur http://stuff.valhook.com
+Il faut mettre le fichier media dans le dossier ./Release
+- 2 lignes de commande permettent d'accéder à des fonctionnalités cachées du jeu?
+SI l'on passe 2D comme argument, le jeu 2D se lance automatiquement
+Si l'on passe invincible comme argument vous serez invincible dans le jeu en 3D

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Main Test Project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Main Test Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Main Test Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Calculation_Functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Calculation_Functions.h" />
+		<Unit filename="Elevator_Functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Elevator_Functions.h" />
+		<Unit filename="Free_Functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Free_Functions.h" />
+		<Unit filename="Laser_Functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Laser_Functions.h" />
+		<Unit filename="Load_Functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Load_Functions.h" />
+		<Unit filename="Main_Game_Functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Main_Game_Functions.h" />
+		<Unit filename="Misc_Functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Misc_Functions.h" />
+		<Unit filename="Render_Functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Render_Functions.h" />
+		<Unit filename="Structures.h" />
+		<Unit filename="Transition_Functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Transition_Functions.h" />
+		<Unit filename="Turret_Functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Turret_Functions.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

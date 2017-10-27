@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Calculation_Functions.c" open="1" top="0" tabpos="4">
+		<Cursor position="11021" topLine="402" />
+	</File>
+	<File name="Elevator_Functions.c" open="1" top="0" tabpos="5">
+		<Cursor position="474" topLine="118" />
+	</File>
+	<File name="Free_Functions.c" open="1" top="0" tabpos="6">
+		<Cursor position="273" topLine="42" />
+	</File>
+	<File name="Laser_Functions.c" open="1" top="0" tabpos="7">
+		<Cursor position="182" topLine="22" />
+	</File>
+	<File name="Load_Functions.c" open="1" top="0" tabpos="8">
+		<Cursor position="16980" topLine="479" />
+	</File>
+	<File name="Main_Game_Functions.c" open="1" top="0" tabpos="1">
+		<Cursor position="1851" topLine="214" />
+	</File>
+	<File name="Misc_Functions.c" open="1" top="0" tabpos="9">
+		<Cursor position="509" topLine="38" />
+	</File>
+	<File name="Render_Functions.c" open="1" top="0" tabpos="10">
+		<Cursor position="697" topLine="300" />
+	</File>
+	<File name="Structures.h" open="1" top="1" tabpos="12">
+		<Cursor position="0" topLine="57" />
+	</File>
+	<File name="Transition_Functions.c" open="1" top="0" tabpos="3">
+		<Cursor position="3295" topLine="104" />
+	</File>
+	<File name="Turret_Functions.c" open="1" top="0" tabpos="11">
+		<Cursor position="176" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="2">
+		<Cursor position="253" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

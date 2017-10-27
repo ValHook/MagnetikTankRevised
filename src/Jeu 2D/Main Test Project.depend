@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1366613822 source:c:\users\arthur\desktop\src\jeu 2d\calculation_functions.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"Calculation_Functions.h"
+
+1366592566 c:\users\arthur\desktop\src\jeu 2d\calculation_functions.h
+	<allegro.h>
+	<math.h>
+	"Structures.h"
+	"Calculation_Functions.h"
+
+1366592516 c:\users\arthur\desktop\src\jeu 2d\structures.h
+	"Structures.h"
+
+1366613648 source:c:\users\arthur\desktop\src\jeu 2d\elevator_functions.c
+	"Elevator_Functions.h"
+
+1366515464 c:\users\arthur\desktop\src\jeu 2d\elevator_functions.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"Structures.h"
+	"Elevator_Functions.h"
+
+1366593264 source:c:\users\arthur\desktop\src\jeu 2d\free_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"Structures.h"
+	"Free_Functions.h"
+
+1366391270 c:\users\arthur\desktop\src\jeu 2d\free_functions.h
+	"Free_Functions.h"
+
+1366613582 source:c:\users\arthur\desktop\src\jeu 2d\laser_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"Structures.h"
+	"Laser_Functions.h"
+
+1366574060 c:\users\arthur\desktop\src\jeu 2d\laser_functions.h
+	"Structures.h"
+	"Laser_Functions.h"
+
+1366613566 source:c:\users\arthur\desktop\src\jeu 2d\load_functions.c
+	"Load_Functions.h"
+
+1366593264 c:\users\arthur\desktop\src\jeu 2d\load_functions.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"Structures.h"
+	"Load_Functions.h"
+
+1366613958 source:c:\users\arthur\desktop\src\jeu 2d\main_game_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"Structures.h"
+	"Load_Functions.h"
+	"Render_Functions.h"
+	"Calculation_Functions.h"
+	"Main_Game_Functions.h"
+	"Elevator_Functions.h"
+	"Transition_Functions.h"
+	"Free_Functions.h"
+	"Turret_Functions.h"
+	"Laser_Functions.h"
+	"Misc_Functions.h"
+
+1366592634 c:\users\arthur\desktop\src\jeu 2d\render_functions.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"Structures.h"
+	"Render_Functions.h"
+
+1366599496 c:\users\arthur\desktop\src\jeu 2d\main_game_functions.h
+	<allegro.h>
+	"Structures.h"
+	"Main_Game_Functions.h"
+
+1366610908 c:\users\arthur\desktop\src\jeu 2d\transition_functions.h
+	"Transition_Functions.h"
+
+1366603424 c:\users\arthur\desktop\src\jeu 2d\turret_functions.h
+	<allegro.h>
+	"Structures.h"
+	"Turret_Functions.h"
+
+1366604434 c:\users\arthur\desktop\src\jeu 2d\misc_functions.h
+	<allegro.h>
+	"Structures.h"
+	"Misc_Functions.h"
+
+1366604434 source:c:\users\arthur\desktop\src\jeu 2d\misc_functions.c
+	<allegro.h>
+	"Structures.h"
+	"Load_Functions.h"
+	"Misc_Functions.h"
+
+1366592772 source:c:\users\arthur\desktop\src\jeu 2d\render_functions.c
+	"Render_Functions.h"
+
+1366613100 source:c:\users\arthur\desktop\src\jeu 2d\turret_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"Structures.h"
+	"Laser_Functions.h"
+	"Turret_Functions.h"
+	"Misc_Functions.h"
+
+1366613958 source:c:\users\arthur\desktop\src\jeu 2d\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"Structures.h"
+	"Load_Functions.h"
+	"Render_Functions.h"
+	"Calculation_Functions.h"
+	"Main_Game_Functions.h"
+	"Transition_Functions.h"
+
